@@ -6,6 +6,8 @@ Business Analytics Projektseminar Wintersemester 2022
 
 Universität Siegen
 
+(Schriftliche Ausführungen im Repo enthalten)
+
 ---
 
 #### Inhalt:
@@ -30,3 +32,4 @@ Universität Siegen
 * TabuSearch: Tabu-Suche mit verschiedenen Einstellungsmöglichkeiten
 * CP_solver: CP-Solver mittels OR-Tools
 * Plot_Gantt: Zum PLotten eines Gantt Charts
+* Seminararbeit (PDF): Schriftliche Ausführungen zu JSP, Methoden etc.
