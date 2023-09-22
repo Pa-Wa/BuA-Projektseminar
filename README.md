@@ -6,8 +6,6 @@ Business Analytics Projektseminar Wintersemester 2022
 
 Universität Siegen
 
-(Schriftliche Ausführung im Repo enthalten)
-
 ---
 
 #### Inhalt:
